@@ -1,0 +1,45 @@
+All Anim Models scaled down to 0.005 ( else they go off the screen )
+Only one "With Skin" and rest without to save space and performance
+Reapply the Materials
+
+Top city :
+1) Plasma Lake : 1st Note
+2) Bench Tutorial : If you go near bench and sit you take out your notes
+
+Down City :
+1) Mitochondria : Powerhouse of cell - 2nd Note
+2) Eletroyte Office : Maintains Ph of plasma - 3rd Note
+3) CardioVasculr Gym : CardioVascular Muscles of Heart - 4th Note
+4) Human Statue : The people that designed the game - 4th wall break pun, 5th note ( not serious ) - 5th Note
+5) Dentritic Police Station : Dendrites help to transmit messages to immune system about virus or bacteria- 6th Note
+6) Vasular Endothelial Cells : The floor or ground - 7th Note
+7) Venous Valve : One way Entry - 8th Note
+10) Germs : Germ Invasion - 11th Note (DURING MINI GAME 1)
+11) Heart School : Heart is about the size of a fist of that person : Note 16
+12) Roads as Blood Vessels : Arteries and Veins : Note 17
+13) RBC : Note 19
+
+
+(AFTER SECOND MINI GAME)
+8) Blod Clotting :(mention fibrin) used for repairing in blood clotting ( AFTER 2nd MINI GAME ) - 9th Note
+13) Lungs School : (for the second mini game) Note 18 (AFTER SECOND MINI GAME)
+9) Platelets : (State GP1b)- 10th Node
+
+MAIN EVENT NOTES :
+
+[Each Mini Game triggered after 6 facts duration]
+
+Mini Game 1
+WBC Enter - Neutrophil are the first responders (WBC) - Note 12
+Cell Migration - T Cells coming out of Lymph Tunnel after WBC can't help alone (This particular WBC is the Lymphocytes, or going into detail Killer T Cells. The main one in anime is Neutrophil) - 13th Note
+Memory T Cell - Remembers the type of disease to effectively fight it when it reapers for seocond time - 14th Note
+
+Mini Game 2 
+Drill to mimic Pulmonary circulation - 15th Note (after the end of gameplay, trigerred automatically)
+
+LEFT :
+A sign which triggers info about Floor
+CardioVascular Gym (Gym for Heart Muscles)
+Dendritic Police Station
+Heart School : (acts as Heart during Drill Gameplay)
+Lungs School : (acts as Lungs during Drill gameplay)

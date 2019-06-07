@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 1a9735a149fb7c048ae64808acd2ed8a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pharmaceutical_factory.001
+    100004: pharmaceutical_factory.002
+    100006: pharmaceutical_factory_shard
+    100008: pharmaceutical_factory_shard.001
+    100010: pharmaceutical_factory_shard.002
+    100012: pharmaceutical_factory_shard.003
+    100014: pharmaceutical_factory_shard.004
+    100016: pharmaceutical_factory_shard.005
+    100018: pharmaceutical_factory_shard.006
+    100020: pharmaceutical_factory_shard.007
+    100022: pharmaceutical_factory_shard.008
+    100024: pharmaceutical_factory_shard.009
+    100026: pharmaceutical_factory_shard.010
+    100028: pharmaceutical_factory_shard.011
+    100030: pharmaceutical_factory_shard.012
+    100032: pharmaceutical_factory_shard.013
+    100034: pharmaceutical_factory_shard.014
+    100036: pharmaceutical_factory_shard.015
+    100038: pharmaceutical_factory_shard.016
+    100040: pharmaceutical_factory_shard.017
+    100042: pharmaceutical_factory_shard.018
+    100044: pharmaceutical_factory_shard.019
+    400000: //RootNode
+    400002: pharmaceutical_factory.001
+    400004: pharmaceutical_factory.002
+    400006: pharmaceutical_factory_shard
+    400008: pharmaceutical_factory_shard.001
+    400010: pharmaceutical_factory_shard.002
+    400012: pharmaceutical_factory_shard.003
+    400014: pharmaceutical_factory_shard.004
+    400016: pharmaceutical_factory_shard.005
+    400018: pharmaceutical_factory_shard.006
+    400020: pharmaceutical_factory_shard.007
+    400022: pharmaceutical_factory_shard.008
+    400024: pharmaceutical_factory_shard.009
+    400026: pharmaceutical_factory_shard.010
+    400028: pharmaceutical_factory_shard.011
+    400030: pharmaceutical_factory_shard.012
+    400032: pharmaceutical_factory_shard.013
+    400034: pharmaceutical_factory_shard.014
+    400036: pharmaceutical_factory_shard.015
+    400038: pharmaceutical_factory_shard.016
+    400040: pharmaceutical_factory_shard.017
+    400042: pharmaceutical_factory_shard.018
+    400044: pharmaceutical_factory_shard.019
+    2100000: pharmaceutical_factory_Inner
+    2100002: white_2P
+    2100004: red_2
+    2100006: dark_blue
+    2100008: blue
+    2100010: bright_green
+    2100012: gray
+    2100014: brown
+    2300000: pharmaceutical_factory.001
+    2300002: pharmaceutical_factory.002
+    2300004: pharmaceutical_factory_shard
+    2300006: pharmaceutical_factory_shard.001
+    2300008: pharmaceutical_factory_shard.002
+    2300010: pharmaceutical_factory_shard.003
+    2300012: pharmaceutical_factory_shard.004
+    2300014: pharmaceutical_factory_shard.005
+    2300016: pharmaceutical_factory_shard.006
+    2300018: pharmaceutical_factory_shard.007
+    2300020: pharmaceutical_factory_shard.008
+    2300022: pharmaceutical_factory_shard.009
+    2300024: pharmaceutical_factory_shard.010
+    2300026: pharmaceutical_factory_shard.011
+    2300028: pharmaceutical_factory_shard.012
+    2300030: pharmaceutical_factory_shard.013
+    2300032: pharmaceutical_factory_shard.014
+    2300034: pharmaceutical_factory_shard.015
+    2300036: pharmaceutical_factory_shard.016
+    2300038: pharmaceutical_factory_shard.017
+    2300040: pharmaceutical_factory_shard.018
+    2300042: pharmaceutical_factory_shard.019
+    3300000: pharmaceutical_factory.001
+    3300002: pharmaceutical_factory.002
+    3300004: pharmaceutical_factory_shard
+    3300006: pharmaceutical_factory_shard.001
+    3300008: pharmaceutical_factory_shard.002
+    3300010: pharmaceutical_factory_shard.003
+    3300012: pharmaceutical_factory_shard.004
+    3300014: pharmaceutical_factory_shard.005
+    3300016: pharmaceutical_factory_shard.006
+    3300018: pharmaceutical_factory_shard.007
+    3300020: pharmaceutical_factory_shard.008
+    3300022: pharmaceutical_factory_shard.009
+    3300024: pharmaceutical_factory_shard.010
+    3300026: pharmaceutical_factory_shard.011
+    3300028: pharmaceutical_factory_shard.012
+    3300030: pharmaceutical_factory_shard.013
+    3300032: pharmaceutical_factory_shard.014
+    3300034: pharmaceutical_factory_shard.015
+    3300036: pharmaceutical_factory_shard.016
+    3300038: pharmaceutical_factory_shard.017
+    3300040: pharmaceutical_factory_shard.018
+    3300042: pharmaceutical_factory_shard.019
+    4300000: pharmaceutical_factory_shard.019
+    4300002: pharmaceutical_factory_shard.018
+    4300004: pharmaceutical_factory_shard.017
+    4300006: pharmaceutical_factory_shard.016
+    4300008: pharmaceutical_factory_shard.015
+    4300010: pharmaceutical_factory_shard.014
+    4300012: pharmaceutical_factory_shard.013
+    4300014: pharmaceutical_factory_shard.012
+    4300016: pharmaceutical_factory_shard.011
+    4300018: pharmaceutical_factory_shard.010
+    4300020: pharmaceutical_factory_shard.009
+    4300022: pharmaceutical_factory_shard.008
+    4300024: pharmaceutical_factory_shard.007
+    4300026: pharmaceutical_factory_shard.006
+    4300028: pharmaceutical_factory_shard.005
+    4300030: pharmaceutical_factory_shard.004
+    4300032: pharmaceutical_factory_shard.003
+    4300034: pharmaceutical_factory_shard.002
+    4300036: pharmaceutical_factory_shard.001
+    4300038: pharmaceutical_factory_shard
+    4300040: pharmaceutical_factory.002
+    4300042: pharmaceutical_factory.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
