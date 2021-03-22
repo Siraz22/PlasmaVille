@@ -38,8 +38,30 @@ The presentation of our work was inspired by the anime "Cells at Work".
 
 ### 1st Mini Game - Double Circulation
 
+The first mini-game was set to just test out the navigation of our player, and copying a top-down RTS input system, where the mouse RMB button could be used to walk the player around the whole world.
+
+The layout of the game map was heavily inspired to mimic the double circulation that RBCs have to go through in a human body.
+
+![alt text](md_files\DoubleCirculation.png "1st Mini Game")
+
+Keeping some of the finer details in mind, the path highlighted by blue lines, all have toll gates to replicate the values of veins that make sure de-oxygenated blood flows in one direction.
+
 ### 2nd Mini Game - Shooter
+
+The second mini-game was a third-person shooter, where according to game, the player takes control of a WBC (Killer T cell) which fight off more resistant antigens and germs in our bodies when the first wave of WBC defense fails.
+
+
 
 ### 3rd Mini Game - Unity Machine Learning Agents
 
+Keeping the competition criteria in mind, we decided to add a third mini-game which utilizes a simple concept of machine learning, (Genetic Algorithm) and implementing it with Unity's ML agents.
+
+The third mini-game repliactes a tower defence game, where you need to keep setting up White Blood Cell agents to combat germs and prevent them from reaching the end lane.
+
+The XP for buying the WBC agents can be earned by answering the questions, which the player has learned from exploring PlasmaVille.
+
+
+
 ### Credit Lane
+
+
