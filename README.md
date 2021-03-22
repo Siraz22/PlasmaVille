@@ -21,7 +21,7 @@ As a computer science major, I and my team decided to take up human anatomy as t
 
 The presentation of our work was inspired by the anime "Cells at Work".
 
-![alt text](md_files\Cells-at-work-anime.jpg "Cells at work")
+![alt text](md_files/Cells-at-work-anime.jpg "Cells at work")
 
 ---
 ### Tools and Tech Stack
@@ -42,7 +42,7 @@ The first mini-game was set to just test out the navigation of our player, and c
 
 The layout of the game map was heavily inspired to mimic the double circulation that RBCs have to go through in a human body.
 
-![alt text](md_files\DoubleCirculation.png "1st Mini Game")
+![alt text](md_files/DoubleCirculation.png "1st Mini Game")
 
 Keeping some of the finer details in mind, the path highlighted by blue lines, all have toll gates to replicate the values of veins that make sure de-oxygenated blood flows in one direction.
 
