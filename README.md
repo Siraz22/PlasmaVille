@@ -23,3 +23,23 @@ The presentation of our work was inspired by the anime "Cells at Work".
 
 ![alt text](md_files\Cells-at-work-anime.jpg "Cells at work")
 
+---
+### Tools and Tech Stack
+- Blender3D
+- Illustrator
+- Unity Engine
+- GIMP
+- ezgif
+- OBS
+
+### Highlights
+
+### Concept Arts
+
+### 1st Mini Game - Double Circulation
+
+### 2nd Mini Game - Shooter
+
+### 3rd Mini Game - Unity Machine Learning Agents
+
+### Credit Lane
