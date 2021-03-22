@@ -4,6 +4,8 @@ A submission for Unity Global Student Competition, a 3-D top down free roaming g
 Find the game and the visuals from link below
 https://connect.unity.com/p/void-public-under_progress
 
+![alt text](md_files/plasmaville.gif "PlasmaVille")
+
 ---
 
 **Note** : *Due to the discontinuation of https://connect.unity.com/ the link for game submission has been pulled down. Please refer to the alternative descriptions provided in this readme file as a substitute.*
@@ -32,9 +34,21 @@ The presentation of our work was inspired by the anime "Cells at Work".
 - ezgif
 - OBS
 
-### Highlights
+### Highlights and Concept
 
-### Concept Arts
+The initial map of Plasmaville was roughly drawn in MS Paint as a prototype to map out the different locations of human bodies being shown in form of a busy city.
+
+Each player in the city is a cell of some sort from the human body, with the player being a RBC (Red Blood Cell).
+
+A lot of liberty was taken for aesthetic purposes, and the final outcome includes quickly put together scenaries such as 
+
+- Mitochondria - the powerhouse of cell; depicted by a busy factory in the city
+
+- Plasma - containing electrolytes; shown by a lake with electric motors, and electric pole lines to power the whole city
+
+- Platelet Clotting - blood clots after an injury; shown by repairing damaged grounds in the city
+
+- Values - to aid uni-directional flow of deoxygenated blood; shown by road tolls.
 
 ### 1st Mini Game - Double Circulation
 
@@ -50,7 +64,7 @@ Keeping some of the finer details in mind, the path highlighted by blue lines, a
 
 The second mini-game was a third-person shooter, where according to game, the player takes control of a WBC (Killer T cell) which fight off more resistant antigens and germs in our bodies when the first wave of WBC defense fails.
 
-
+![alt text](md_files/shooter.png "Shooter Mini Game")
 
 ### 3rd Mini Game - Unity Machine Learning Agents
 
@@ -60,8 +74,24 @@ The third mini-game repliactes a tower defence game, where you need to keep sett
 
 The XP for buying the WBC agents can be earned by answering the questions, which the player has learned from exploring PlasmaVille.
 
+### Technical Overview
 
+The game uses simple but effective techniques learnt over one and half years of using Unity. The project was implemented utilizing all the tools and technicalities mentioned in brief here.
+
+- NavMesh AI - For path finding and character movement
+
+![alt text](md_files/NavMesh.gif "Navmesh in Unity")
+
+- Occulusion Culling - For reducing resource consumption
+
+![alt text](md_files/OcclusionCulling.gif "Occulusion Culling in Unity")
+
+- Shader Graph - For realistic Water Reflection
+
+![alt text](md_files/ShaderWater.jpg "Shaders in Unity")
 
 ### Credit Lane
 
+The credit lane was added as an extra location in the game to thank all the other artists who contributed (through email or consents) and allowed us to use their terrific artworks and music for the competition.
 
+The credit lane features all the artists represented by an NPC with whom the player can interact with, to learn of thier contributions for the project.
