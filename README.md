@@ -44,11 +44,19 @@ A lot of liberty was taken for aesthetic purposes, and the final outcome include
 
 - Mitochondria - the powerhouse of cell; depicted by a busy factory in the city
 
+![alt text](md_files/mitochondria.gif "Mitochondria")
+
 - Plasma - containing electrolytes; shown by a lake with electric motors, and electric pole lines to power the whole city
+
+![alt text](md_files/plasma.gif "Plasma")
 
 - Platelet Clotting - blood clots after an injury; shown by repairing damaged grounds in the city
 
-- Values - to aid uni-directional flow of deoxygenated blood; shown by road tolls.
+![alt text](md_files/platelate.gif "Platelet")
+
+- Valves - to aid uni-directional flow of deoxygenated blood; shown by road tolls.
+
+![alt text](md_files/valves.gif "Valves")
 
 ### 1st Mini Game - Double Circulation
 
@@ -64,7 +72,7 @@ Keeping some of the finer details in mind, the path highlighted by blue lines, a
 
 The second mini-game was a third-person shooter, where according to game, the player takes control of a WBC (Killer T cell) which fight off more resistant antigens and germs in our bodies when the first wave of WBC defense fails.
 
-![alt text](md_files/shooter.png "Shooter Mini Game")
+![alt text](md_files/shooter.gif "Shooter Mini Game")
 
 ### 3rd Mini Game - Unity Machine Learning Agents
 
@@ -72,7 +80,11 @@ Keeping the competition criteria in mind, we decided to add a third mini-game wh
 
 The third mini-game repliactes a tower defence game, where you need to keep setting up White Blood Cell agents to combat germs and prevent them from reaching the end lane.
 
+![alt text](md_files/ml1.gif "Shooter Mini Game")
+
 The XP for buying the WBC agents can be earned by answering the questions, which the player has learned from exploring PlasmaVille.
+
+![alt text](md_files/ml2.gif "Shooter Mini Game")
 
 ### Technical Overview
 
@@ -88,10 +100,12 @@ The game uses simple but effective techniques learnt over one and half years of 
 
 - Shader Graph - For realistic Water Reflection
 
-![alt text](md_files/ShaderWater.jpg "Shaders in Unity")
+![alt text](md_files/water.gif "Shaders in Unity")
 
 ### Credit Lane
 
 The credit lane was added as an extra location in the game to thank all the other artists who contributed (through email or consents) and allowed us to use their terrific artworks and music for the competition.
 
 The credit lane features all the artists represented by an NPC with whom the player can interact with, to learn of thier contributions for the project.
+
+![alt text](md_files/creditlane.gif "Shooter Mini Game")
