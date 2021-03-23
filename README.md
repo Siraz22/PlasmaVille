@@ -2,13 +2,13 @@
 A submission for Unity Global Student Competition, a 3-D top down free roaming game to learn about facts of human body, where the human body is portrayed as a city with cells as human beings. 
 
 Find the game and the visuals from link below
-https://connect.unity.com/p/void-public-under_progress
+https://play.unity.com/p/void-public-under_progress
 
 ![alt text](md_files/plasmaville.gif "PlasmaVille")
 
 ---
 
-**Note** : *Due to the discontinuation of https://connect.unity.com/ the link for game submission has been pulled down. Please refer to the alternative descriptions provided in this readme file as a substitute.*
+**Note** : *This is a small formal overview of the game. Go to https://play.unity.com/p/void-public-under_progress to see the unscripted progress and informal overview, created on the go during the competition*
 
 ---
 
